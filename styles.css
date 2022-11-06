@@ -19,7 +19,7 @@ img {
     opacity: 30%;
     position: fixed;
     z-index: -1;
-    animation: spinnn;
+/*    animation: spinnn;*/
     animation-duration: 2s;
     top:0px;
     margin-top: 100px;
